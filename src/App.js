@@ -1,11 +1,11 @@
 import React, { Component } from "react";
 import "./styles.css";
-import Advise from "./Advise";
+import Advice from "./Advice";
 class App extends Component {
   render() {
     return (
       <div className="App">
-        <Advise />
+        <Advice />
       </div>
     );
   }
